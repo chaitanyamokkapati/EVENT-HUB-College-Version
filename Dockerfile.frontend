@@ -1,0 +1,13 @@
+# Build stage for Vite/React frontend
+FROM node:20 AS builder
+WORKDIR /app
+COPY package*.json ./
+RUN npm ci
+COPY . .
+RUN npm run build
+
+# Production stage with Nginx
+FROM nginx:alpine
+COPY --from=builder /app/dist /usr/share/nginx/html
+# Use your existing nginx.conf (perfect for this setup)
+COPY nginx.conf /etc/nginx/conf.d/default.conf
